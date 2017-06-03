@@ -1,2 +1,2 @@
-# friendly-octo-guacamole
+# jquery-annotated
 jquery源码注释
